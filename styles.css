@@ -1,8 +1,8 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: Arial, Helvetica, sans-serif, 'Times New Roman', Times, serif, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f3f3f3;
+    background:gray
   }
   
   .container {
@@ -13,7 +13,7 @@ body {
   }
   
   header {
-    background-color: #5eaaa8;
+    background-color: #5e5faa;
     color: #fff;
     padding: 20px;
     border-radius: 5px;
@@ -23,13 +23,13 @@ body {
     display: inline-block;
     padding: 10px 20px;
     border-radius: 5px;
-    background-color: #8cb5b4;
+    background-color: #4a4a55;
     transition: background-color 0.3s ease;
     text-decoration: none;
     color: #fff;
   }
   
   a.download-button:hover {
-    background-color: #70a1a0;
+    background-color: #000000;
   }
   
